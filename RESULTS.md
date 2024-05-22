@@ -1,6 +1,6 @@
 # Results
 
-[Euclid][https://www.infoarena.ro/job_detail/3230747]
+[Euclid](https://www.infoarena.ro/job_detail/3230747)
 
 Executable size: 1.18kb
 
