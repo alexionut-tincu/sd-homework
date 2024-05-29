@@ -1,6 +1,6 @@
 # Results
 
-##Euclid
+## Euclid
 [source code](https://www.infoarena.ro/job_detail/3230747)
 
 Source size: 1.18kb
@@ -19,7 +19,7 @@ Source size: 1.18kb
 | 10   | 173ms         | 819kb            | OK    | 10           |
 
 
-##Kami
+## Kami
 [source code](https://www.infoarena.ro/job_detail/3231981) (#1 Podium for speed)
 
 Source size: 2.56kb
@@ -38,17 +38,13 @@ Source size: 2.56kb
 | 10   | 24ms          | 3047kb           | OK    | 10           |
 
 
-##Interesting Minimums
+## Interesting Minimums
 [source code](https://codeforces.com/gym/103999/problem/M)
 
 100 points, first in speed on equivalent on [Kilonova](https://kilonova.ro/submissions/383958)
 
 
-##Plantatie
-
-
-
-##Stramosi
+## Stramosi
 [source code](https://www.infoarena.ro/job_detail/3231638) (#1 Podium for speed)
 
 Source size: 0.75kb (or 246b, for the [#1 Podium for source size solution](https://www.infoarena.ro/job_detail/3231609)(just a meme, not to be taken seriously lol))
