@@ -1,5 +1,12 @@
 # Results
 
+## Daci si Samurai
+[problem](https://codeforces.com/gym/103999/problem/I)
+
+100 points, first in speed on equivalent on [Kilonova](https://kilonova.ro/submissions/384083)
+
+Source size: 1.12kb
+
 ## Euclid
 [source code](https://www.infoarena.ro/job_detail/3230747)
 
@@ -39,9 +46,11 @@ Source size: 2.56kb
 
 
 ## Interesting Minimums
-[source code](https://codeforces.com/gym/103999/problem/M)
+[problem](https://codeforces.com/gym/103999/problem/M)
 
 100 points, first in speed on equivalent on [Kilonova](https://kilonova.ro/submissions/383958)
+
+Source size: 1.89kb
 
 
 ## Stramosi
