@@ -3,7 +3,7 @@
 ## Daci si Samurai
 [problem](https://codeforces.com/gym/103999/problem/I)
 
-100 points, first in speed on equivalent on [Kilonova](https://kilonova.ro/submissions/384083)
+100 points, #1 best speed on equivalent on [Kilonova](https://kilonova.ro/submissions/384083)
 
 Source size: 1.12kb
 
@@ -27,7 +27,7 @@ Source size: 1.18kb
 
 
 ## Kami
-[source code](https://www.infoarena.ro/job_detail/3231981) (#1 Podium for speed)
+[source code](https://www.infoarena.ro/job_detail/3231981) (#1 best speed)
 
 Source size: 2.56kb
 
@@ -48,15 +48,15 @@ Source size: 2.56kb
 ## Interesting Minimums
 [problem](https://codeforces.com/gym/103999/problem/M)
 
-100 points, first in speed on equivalent on [Kilonova](https://kilonova.ro/submissions/383958)
+100 points, #1 best speed on equivalent on [Kilonova](https://kilonova.ro/submissions/383958)
 
 Source size: 1.89kb
 
 
 ## Stramosi
-[source code](https://www.infoarena.ro/job_detail/3231638) (#1 Podium for speed)
+[source code](https://www.infoarena.ro/job_detail/3231638) (#1 best speed)
 
-Source size: 0.75kb (or 246b, for the [#1 Podium for source size solution](https://www.infoarena.ro/job_detail/3231609)(just a meme, not to be taken seriously lol))
+Source size: 0.75kb (or 246b, for the [#1 best source size](https://www.infoarena.ro/job_detail/3231609)(just a meme, not to be taken seriously lol))
 
 | Test | Timp executie | Memorie folosita | Mesaj | Punctaj/test |
 | ---- | ------------- | ---------------- | ----- | ------------ |
