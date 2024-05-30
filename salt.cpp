@@ -6,6 +6,26 @@
 
 #define MOD 1'000'000'007
 
+template<typename T>
+void fastscan(T &number, FILE *file = stdin)
+{
+	bool negative = false;
+	char c;
+	number = 0;
+	c = getc(file);
+	if (c == '-')
+	{
+		negative = true;
+		c = getc(file);
+	}
+	for (; (c > 47 && c < 58); c = getc(file)) {
+		number = number * 10 + c - 48;
+	}
+	if (negative) {
+		number *= -1;
+	}
+}
+
 class RangeMaxQuery {
 public:
 	RangeMaxQuery(const std::vector<uint64_t> &vec) :
@@ -60,19 +80,20 @@ int main()
 	std::cin.tie(NULL);
 
 	uint64_t n;
-	std::cin >> n;
+	fastscan(n);
 	std::vector<uint64_t> vec(n);
 	for (uint64_t i = 0; i < n; ++i) {
-		std::cin >> vec[i];
+		fastscan(vec[i]);
 	}
 
 	RangeMaxQuery rmq(vec);
 	int64_t queries;
-	std::cin >> queries;
+	fastscan(queries);
 	
 	while (queries--) {
 		uint64_t l, r;
-		std::cin >> l >> r;
+		fastscan(l);
+		fastscan(r);
 
 		uint64_t len = --r - --l;
 		uint64_t max = rmq.Query(vec, l, r);

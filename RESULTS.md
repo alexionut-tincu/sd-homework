@@ -1,5 +1,34 @@
 # Results
 
+## Bleach
+[source code](https://www.infoarena.ro/job_detail/3232393) (#1 best speed)
+
+Source size: 1.42kb
+
+| Test | Timp executie | Memorie folosita | Mesaj | Punctaj/test |
+| ---- | ------------- | ---------------- | ----- | ------------ |
+| 1    | 0ms           | 303kb            | OK    | 5            |
+| 2    | 0ms           | 303kb            | OK    | 5            |
+| 3    | 0ms           | 303kb            | OK    | 5            |
+| 4    | 0ms           | 303kb            | OK    | 5            |
+| 5    | 0ms           | 303kb            | OK    | 5            |
+| 6    | 0ms           | 303kb            | OK    | 5            |
+| 7    | 0ms           | 303kb            | OK    | 5            |
+| 8    | 0ms           | 303kb            | OK    | 5            |
+| 9    | 0ms           | 303kb            | OK    | 5            |
+| 10   | 0ms           | 303kb            | OK    | 5            |
+| 11   | 0ms           | 303kb            | OK    | 5            |
+| 12   | 0ms           | 303kb            | OK    | 5            |
+| 13   | 0ms           | 303kb            | OK    | 5            |
+| 14   | 0ms           | 303kb            | OK    | 5            |
+| 15   | 0ms           | 303kb            | OK    | 5            |
+| 16   | 0ms           | 303kb            | OK    | 5            |
+| 17   | 0ms           | 303kb            | OK    | 5            |
+| 18   | 0ms           | 303kb            | OK    | 5            |
+| 19   | 0ms           | 303kb            | OK    | 5            |
+| 20   | 38ms          | 303kb            | OK    | 5            |
+
+
 ## Daci si Samurai
 [problem](https://codeforces.com/gym/103999/problem/I)
 
@@ -56,13 +85,13 @@ Source size: 1.89kb
 ## Salt
 [problem](https://codeforces.com/gym/103999/problem/L)
 
-100 points, #1 best speed on equivalent on [Kilonova](https://kilonova.ro/submissions/384106) (by a factor of 6-7)
+100 points, #1 best speed on equivalent on [Kilonova](https://kilonova.ro/submissions/384137) (by a factor of almost 10x)
 
 
 ## Stramosi
 [source code](https://www.infoarena.ro/job_detail/3231638) (#1 best speed)
 
-Source size: 0.75kb (or 246b, for the [#1 best source size](https://www.infoarena.ro/job_detail/3231609)(just a meme, not to be taken seriously lol))
+Source size: 0.75kb (or 246b, for the [#1 best source size](https://www.infoarena.ro/job_detail/3231609) (just a meme, not to be taken seriously lol))
 
 | Test | Timp executie | Memorie folosita | Mesaj | Punctaj/test |
 | ---- | ------------- | ---------------- | ----- | ------------ |
