@@ -124,3 +124,22 @@ Source size: 0.75kb (or 246b, for the [#1 best source size](https://www.infoaren
 | 8    | 39ms          | 1122kb           | OK    | 10           |
 | 9    | 69ms          | 2560kb           | OK    | 10           |
 | 10   | 74ms          | 3026kb           | OK    | 10           |
+
+
+## Timbre
+[source code](https://www.infoarena.ro/job_detail/3232416)
+
+Source size: 2.88kb
+
+| Test | Timp executie | Memorie folosita | Mesaj | Punctaj/test |
+| ---- | ------------- | ---------------- | ----- | ------------ |
+| 1    | 0ms           | 303kb            | OK    | 10           |
+| 2    | 0ms           | 303kb            | OK    | 10           |
+| 3    | 0ms           | 303kb            | OK    | 10           |
+| 4    | 0ms           | 303kb            | OK    | 10           |
+| 5    | 0ms           | 303kb            | OK    | 10           |
+| 6    | 1ms           | 557kb            | OK    | 10           |
+| 7    | 1ms           | 557kb            | OK    | 10           |
+| 8    | 1ms           | 819kb            | OK    | 10           |
+| 9    | 1ms           | 819kb            | OK    | 10           |
+| 10   | 0ms           | 303kb            | OK    | 10           |
