@@ -48,9 +48,15 @@ Source size: 2.56kb
 ## Interesting Minimums
 [problem](https://codeforces.com/gym/103999/problem/M)
 
-100 points, #1 best speed on equivalent on [Kilonova](https://kilonova.ro/submissions/383958)
+100 points, #1 best speed on equivalent on [Kilonova](https://kilonova.ro/submissions/383978)	
 
 Source size: 1.89kb
+
+
+## Salt
+[problem](https://codeforces.com/gym/103999/problem/L)
+
+100 points, #1 best speed on equivalent on [Kilonova](https://kilonova.ro/submissions/384106) (by a factor of 6-7)
 
 
 ## Stramosi
