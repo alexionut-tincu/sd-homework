@@ -82,6 +82,25 @@ Source size: 2.56kb
 Source size: 1.89kb
 
 
+## Proc2
+[source code](https://www.infoarena.ro/job_detail/3232407) (#1 best speed)
+
+Source size: 1.22kb
+
+| Test | Timp executie | Memorie folosita | Mesaj | Punctaj/test |
+| ---- | ------------- | ---------------- | ----- | ------------ |
+| 1    | 0ms           | 303kb            | OK    | 10           |
+| 2    | 0ms           | 303kb            | OK    | 10           |
+| 3    | 0ms           | 303kb            | OK    | 10           |
+| 4    | 3ms           | 946kb            | OK    | 10           |
+| 5    | 4ms           | 1101kb           | OK    | 10           |
+| 6    | 5ms           | 1372kb           | OK    | 10           |
+| 7    | 6ms           | 1634kb           | OK    | 10           |
+| 8    | 7ms           | 1892kb           | OK    | 10           |
+| 9    | 9ms           | 2179kb           | OK    | 10           |
+| 10   | 9ms           | 2154kb           | OK    | 10           |
+
+
 ## Salt
 [problem](https://codeforces.com/gym/103999/problem/L)
 
